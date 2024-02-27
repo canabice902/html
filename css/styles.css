@@ -1,0 +1,19 @@
+/* html {
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 767px) {
+    #myVideo {
+        height: unset!important;
+    }
+
+    .start-page .start-page__body {
+        display: block;
+        padding: 10px!important;
+    }
+
+    .start-page__button {
+        width: 100%!important;
+         padding: 10px!important;
+    }
+} */
